@@ -1,0 +1,33 @@
+#numeros
+{
+	margin-top: 108px;
+	position: absolute;
+}
+
+
+div {
+	text-align: center;
+	float: center;
+}
+
+
+form{
+	width: 500px;
+	height: 300px;
+	margin: 0 auto;
+	font-size: 100px;
+}
+
+ #total{float: center;
+ 		font-size: 80px;
+ 		background-color: white;
+ 		width: 500px;
+ 		
+ }
+ form {
+ 	
+ }
+ img {
+ 	height: 100px;
+ 	width: 100px;
+ }
